@@ -1,3 +1,7 @@
+A frontend Framework for building data-driven applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design. Open sourced and maintained by marmelab.
+
+![image](https://user-images.githubusercontent.com/54888236/202142553-c5dd94c2-c450-45c8-964b-87a1ed92112f.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
